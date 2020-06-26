@@ -14,7 +14,7 @@ primarylinks:
  - title: GitHub
    url: https://github.com/prasejaya
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://www.linkedin.com/in/edo-wijaya-22483254
 
 #Any buzzword skills you want to include
 skills:
@@ -32,7 +32,7 @@ skills:
 #Work experience is required
 roles:
  - title: Full Stack Developer
-   start: December 2018
+   start: Dec 2018
    end: Ongoing
    employer: Kokola
    description: Kokola is a manufacture company with total employees about 2000 people. <br/>Modifying cold fusion as client request in ERP system, develop android & PHP application for operational support.<br/> Design API system for operational purpose.
@@ -56,7 +56,7 @@ education:
 
 
 intro: |
-  I am an engineer with 6 years experience working in technology. I have primarily worked on the PHP with their framework. <br/> i also have knowledge about some other area. I have created android application using android native and kotlin.<br/> Currently, i use cold fusion to build ERP system. 
+  I am an engineer with 6 years experience working in technology. I have primarily worked on the PHP with their framework. <br/> I also have knowledge about some other area. I have created android application using android native and kotlin.<br/> Currently, i use cold fusion to build ERP system. 
   I am also build machine learning with python.  
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
